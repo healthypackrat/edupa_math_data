@@ -1,0 +1,76 @@
+- title: 数学I
+  slug: hm1
+  url: http://edupa.org/?p=4904
+  chapters:
+  - title: 数と式
+    slug: hm1-1
+  - title: 方程式と不等式
+    slug: hm1-2
+  - title: 2次関数
+    slug: hm1-3
+  - title: 図形と計量
+    slug: hm1-4
+- title: 数学A
+  slug: hma
+  url: http://edupa.org/?p=931
+  chapters:
+  - title: 集合と論理
+    slug: hma-1
+  - title: 順列と組み合わせ
+    slug: hma-2
+  - title: 確率
+    slug: hma-3
+  - title: 平面図形
+    slug: hma-4
+- title: 数学II
+  slug: hm2
+  url: http://edupa.org/?p=915
+  chapters:
+  - title: 数と式
+    slug: hm2-1
+  - title: 複素数と方程式
+    slug: hm2-2
+  - title: 図形と式
+    slug: hm2-3
+  - title: 三角関数
+    slug: hm2-4
+  - title: 指数関数と対数関数
+    slug: hm2-5
+  - title: 微分法と積分法
+    slug: hm2-6
+- title: 数学B
+  slug: hmb
+  url: http://edupa.org/?p=933
+  chapters:
+  - title: 数列
+    slug: hmb-1
+  - title: ベクトル
+    slug: hmb-2
+  - title: 複素平面
+    slug: hmb-3
+  - title: 微分方程式
+    slug: hmb-4
+- title: 数学III
+  slug: hm3
+  url: http://edupa.org/?p=929
+  chapters:
+  - title: 関数
+    slug: hm3-1
+  - title: 極限
+    slug: hm3-2
+  - title: 微分法
+    slug: hm3-3
+  - title: 微分法の応用
+    slug: hm3-4
+  - title: 積分法
+    slug: hm3-5
+  - title: 積分法の応用
+    slug: hm3-6
+- title: 数学C
+  slug: hmc
+  url: http://edupa.org/?p=935
+  chapters:
+  - title: 行列
+    slug: hmc-1
+  - title: 式と曲線
+    slug: hmc-2

@@ -1,0 +1,4673 @@
+[
+  {
+    "title": "数学I",
+    "slug": "hm1",
+    "url": "http://edupa.org/?p=4904",
+    "chapters": [
+      {
+        "title": "数と式",
+        "slug": "hm1-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "分配法則と整式の乗法",
+            "path": "math/hm/hm1-1-01",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-01.flv",
+            "duration": 1012
+          },
+          {
+            "position": 2,
+            "title": "乗法公式B",
+            "path": "math/hm/hm1-1-02",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-02.flv",
+            "duration": 785
+          },
+          {
+            "position": 3,
+            "title": "数",
+            "path": "math/hm/hm1-1-03",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-03.flv",
+            "duration": 1096
+          },
+          {
+            "position": 4,
+            "title": "実数の基本性質",
+            "path": "math/hm/hm1-1-04",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-04.flv",
+            "duration": 1029
+          },
+          {
+            "position": 5,
+            "title": "数直線",
+            "path": "math/hm/hm1-1-05",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-05.flv",
+            "duration": 701
+          },
+          {
+            "position": 6,
+            "title": "平方根の定義",
+            "path": "math/hm/hm1-1-06",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-06.flv",
+            "duration": 1079
+          },
+          {
+            "position": 7,
+            "title": "分母の有理化",
+            "path": "math/hm/hm1-1-07",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-07.flv",
+            "duration": 744
+          },
+          {
+            "position": 8,
+            "title": "因数分解の基本",
+            "path": "math/hm/hm1-1-08",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-08.flv",
+            "duration": 947
+          },
+          {
+            "position": 9,
+            "title": "たすきがけの因数分解",
+            "path": "math/hm/hm1-1-09",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-09.flv",
+            "duration": 696
+          },
+          {
+            "position": 10,
+            "title": "やや高度な因数分解",
+            "path": "math/hm/hm1-1-10",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-1-10.flv",
+            "duration": 1081
+          }
+        ]
+      },
+      {
+        "title": "方程式と不等式",
+        "slug": "hm1-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "不等号と不等式",
+            "path": "math/hm/hm1-2-01",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-01.flv",
+            "duration": 443
+          },
+          {
+            "position": 2,
+            "title": "不等式の基本性質①",
+            "path": "math/hm/hm1-2-02",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-02.flv",
+            "duration": 592
+          },
+          {
+            "position": 3,
+            "title": "不等式の基本性質②",
+            "path": "math/hm/hm1-2-03",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-03.flv",
+            "duration": 377
+          },
+          {
+            "position": 4,
+            "title": "1次不等式①",
+            "path": "math/hm/hm1-2-04",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-04.flv",
+            "duration": 694
+          },
+          {
+            "position": 5,
+            "title": "不等式の基本性質③",
+            "path": "math/hm/hm1-2-05",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-05.flv",
+            "duration": 495
+          },
+          {
+            "position": 6,
+            "title": "1次不等式②",
+            "path": "math/hm/hm1-2-06",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-06.flv",
+            "duration": 780
+          },
+          {
+            "position": 7,
+            "title": "1次不等式の応用",
+            "path": "math/hm/hm1-2-07",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-07.flv",
+            "duration": 218
+          },
+          {
+            "position": 8,
+            "title": "2次方程式 その1",
+            "path": "math/hm/hm1-2-08",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-08.flv",
+            "duration": 780
+          },
+          {
+            "position": 9,
+            "title": "2次方程式の解の判別",
+            "path": "math/hm/hm1-2-09",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-09.flv",
+            "duration": 435
+          },
+          {
+            "position": 10,
+            "title": "2次方程式 その2",
+            "path": "math/hm/hm1-2-10",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-10.flv",
+            "duration": 874
+          },
+          {
+            "position": 11,
+            "title": "2次方程式の応用",
+            "path": "math/hm/hm1-2-11",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-2-11.flv",
+            "duration": 557
+          }
+        ]
+      },
+      {
+        "title": "2次関数",
+        "slug": "hm1-3",
+        "videos": [
+          {
+            "position": 1,
+            "title": "関数と定義域、値域",
+            "path": "math/hm/hm1-3-01",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-01.flv",
+            "duration": 1427
+          },
+          {
+            "position": 2,
+            "title": "関数のグラフ",
+            "path": "math/hm/hm1-3-02",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-02.flv",
+            "duration": 908
+          },
+          {
+            "position": 3,
+            "title": "y=ax² のグラフ",
+            "path": "math/hm/hm1-3-03",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-03.flv",
+            "duration": 989
+          },
+          {
+            "position": 4,
+            "title": "図形の移動",
+            "path": "math/hm/hm1-3-04",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-04.flv",
+            "duration": 1390
+          },
+          {
+            "position": 5,
+            "title": "y=ax²+bx+c のグラフ",
+            "path": "math/hm/hm1-3-05",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-05.flv",
+            "duration": 790
+          },
+          {
+            "position": 6,
+            "title": "2次関数の決定",
+            "path": "math/hm/hm1-3-06",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-06.flv",
+            "duration": 952
+          },
+          {
+            "position": 7,
+            "title": "2次関数の最大・最小",
+            "path": "math/hm/hm1-3-07",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-07.flv",
+            "duration": 325
+          },
+          {
+            "position": 8,
+            "title": "最大・最小の応用",
+            "path": "math/hm/hm1-3-08",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-08.flv",
+            "duration": 561
+          },
+          {
+            "position": 9,
+            "title": "2次関数と2次方程式",
+            "path": "math/hm/hm1-3-09",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-09.flv",
+            "duration": 791
+          },
+          {
+            "position": 10,
+            "title": "2次不等式",
+            "path": "math/hm/hm1-3-10",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-10.flv",
+            "duration": 1030
+          },
+          {
+            "position": 11,
+            "title": "2次関数のグラフとx軸",
+            "path": "math/hm/hm1-3-11",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-11.flv",
+            "duration": 723
+          },
+          {
+            "position": 12,
+            "title": "2次不等式の応用",
+            "path": "math/hm/hm1-3-12",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-12.flv",
+            "duration": 663
+          },
+          {
+            "position": 13,
+            "title": "2次不等式の応用問題",
+            "path": "math/hm/hm1-3-13",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-13.flv",
+            "duration": 344
+          },
+          {
+            "position": 14,
+            "title": "グラフの移動",
+            "path": "math/hm/hm1-3-14",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-3-14.flv",
+            "duration": 1166
+          }
+        ]
+      },
+      {
+        "title": "図形と計量",
+        "slug": "hm1-4",
+        "videos": [
+          {
+            "position": 1,
+            "title": "三角比の源(鋭角の正接 tan)",
+            "path": "math/hm/hm1-4-01",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-01.flv",
+            "duration": 1389
+          },
+          {
+            "position": 2,
+            "title": "鋭角の正弦(sin)、余弦(cos)",
+            "path": "math/hm/hm1-4-02",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-02.flv",
+            "duration": 956
+          },
+          {
+            "position": 3,
+            "title": "正弦定理",
+            "path": "math/hm/hm1-4-03",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-03.flv",
+            "duration": 1880
+          },
+          {
+            "position": 4,
+            "title": "余弦定理",
+            "path": "math/hm/hm1-4-04",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-04.flv",
+            "duration": 2079
+          },
+          {
+            "position": 5,
+            "title": "図形の計量",
+            "path": "math/hm/hm1-4-05",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-05.flv",
+            "duration": 2599
+          },
+          {
+            "position": 6,
+            "title": "三角比の相互関係",
+            "path": "math/hm/hm1-4-06",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-06.flv",
+            "duration": 1031
+          },
+          {
+            "position": 7,
+            "title": "三角比の拡張(鈍角の三角比)",
+            "path": "math/hm/hm1-4-07",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-07.flv",
+            "duration": 1736
+          },
+          {
+            "position": 8,
+            "title": "一般化された三角比の相互関係",
+            "path": "math/hm/hm1-4-08",
+            "ftype": "2",
+            "server": "1",
+            "video_url": "http://edupa.info/flv/math/hm/hm1-4-08.flv",
+            "duration": 1062
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "数学A",
+    "slug": "hma",
+    "url": "http://edupa.org/?p=931",
+    "chapters": [
+      {
+        "title": "集合と論理",
+        "slug": "hma-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "部分集合・共通部分・和集合",
+            "path": "math/hm/hma-1-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-01.flv",
+            "duration": 1373
+          },
+          {
+            "position": 2,
+            "title": "補集合の考え",
+            "path": "math/hm/hma-1-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-02.flv",
+            "duration": 604
+          },
+          {
+            "position": 3,
+            "title": "有限集合の要素の個数",
+            "path": "math/hm/hma-1-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-03.flv",
+            "duration": 1055
+          },
+          {
+            "position": 4,
+            "title": "命題と条件",
+            "path": "math/hm/hma-1-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-04.flv",
+            "duration": 755
+          },
+          {
+            "position": 5,
+            "title": "条件と集合",
+            "path": "math/hm/hma-1-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-05.flv",
+            "duration": 443
+          },
+          {
+            "position": 6,
+            "title": "ド・モルガンの法則",
+            "path": "math/hm/hma-1-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-06.flv",
+            "duration": 415
+          },
+          {
+            "position": 7,
+            "title": "必要条件 十分条件",
+            "path": "math/hm/hma-1-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-07.flv",
+            "duration": 633
+          },
+          {
+            "position": 8,
+            "title": "逆と裏と対偶",
+            "path": "math/hm/hma-1-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-1-08.flv",
+            "duration": 807
+          }
+        ]
+      },
+      {
+        "title": "順列と組み合わせ",
+        "slug": "hma-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "樹形図、和の法則",
+            "path": "math/hm/hma-2-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-01.flv",
+            "duration": 659
+          },
+          {
+            "position": 2,
+            "title": "積の法則、探求",
+            "path": "math/hm/hma-2-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-02.flv",
+            "duration": 661
+          },
+          {
+            "position": 3,
+            "title": "順列 その1",
+            "path": "math/hm/hma-2-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-03.flv",
+            "duration": 762
+          },
+          {
+            "position": 4,
+            "title": "順列 その2",
+            "path": "math/hm/hma-2-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-04.flv",
+            "duration": 512
+          },
+          {
+            "position": 5,
+            "title": "円順列と重複順列 その1",
+            "path": "math/hm/hma-2-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-05.flv",
+            "duration": 591
+          },
+          {
+            "position": 6,
+            "title": "円順列と重複順列 その2",
+            "path": "math/hm/hma-2-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-06.flv",
+            "duration": 235
+          },
+          {
+            "position": 7,
+            "title": "組合せ その1",
+            "path": "math/hm/hma-2-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-07.flv",
+            "duration": 1146
+          },
+          {
+            "position": 8,
+            "title": "組合せ その2",
+            "path": "math/hm/hma-2-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-08.flv",
+            "duration": 1445
+          },
+          {
+            "position": 9,
+            "title": "組合せ その3",
+            "path": "math/hm/hma-2-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-09.flv",
+            "duration": 1818
+          },
+          {
+            "position": 10,
+            "title": "組合せ その1 追加",
+            "path": "math/hm/hma-2-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-10.flv",
+            "duration": 441
+          },
+          {
+            "position": 11,
+            "title": "組合せ その4",
+            "path": "math/hm/hma-2-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-11.flv",
+            "duration": 2084
+          },
+          {
+            "position": 12,
+            "title": "組合せ その5",
+            "path": "math/hm/hma-2-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-12.flv",
+            "duration": 387
+          },
+          {
+            "position": 13,
+            "title": "組合せ その6",
+            "path": "math/hm/hma-2-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-2-13.flv",
+            "duration": 655
+          }
+        ]
+      },
+      {
+        "title": "確率",
+        "slug": "hma-3",
+        "videos": [
+          {
+            "position": 1,
+            "title": "確率の意味",
+            "path": "math/hm/hma-3-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-01.flv",
+            "duration": 1616
+          },
+          {
+            "position": 2,
+            "title": "例題",
+            "path": "math/hm/hma-3-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-02.flv",
+            "duration": 696
+          },
+          {
+            "position": 3,
+            "title": "確率の基本性質",
+            "path": "math/hm/hma-3-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-03.flv",
+            "duration": 1158
+          },
+          {
+            "position": 4,
+            "title": "余事象の確率",
+            "path": "math/hm/hma-3-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-04.flv",
+            "duration": 680
+          },
+          {
+            "position": 5,
+            "title": "独立な試行の確率",
+            "path": "math/hm/hma-3-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-05.flv",
+            "duration": 796
+          },
+          {
+            "position": 6,
+            "title": "反復試行の確率",
+            "path": "math/hm/hma-3-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-06.flv",
+            "duration": 1354
+          },
+          {
+            "position": 7,
+            "title": "期待値",
+            "path": "math/hm/hma-3-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-3-07.flv",
+            "duration": 935
+          }
+        ]
+      },
+      {
+        "title": "平面図形",
+        "slug": "hma-4",
+        "videos": [
+          {
+            "position": 1,
+            "title": "三角形の重心",
+            "path": "math/hm/hma-4-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-01.flv",
+            "duration": 1808
+          },
+          {
+            "position": 2,
+            "title": "三角形の外心",
+            "path": "math/hm/hma-4-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-02.flv",
+            "duration": 713
+          },
+          {
+            "position": 3,
+            "title": "三角形の内心",
+            "path": "math/hm/hma-4-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-03.flv",
+            "duration": 739
+          },
+          {
+            "position": 4,
+            "title": "角の二等分線と辺の比",
+            "path": "math/hm/hma-4-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-04.flv",
+            "duration": 374
+          },
+          {
+            "position": 5,
+            "title": "三角形の辺と角",
+            "path": "math/hm/hma-4-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-05.flv",
+            "duration": 1250
+          },
+          {
+            "position": 6,
+            "title": "円周角の定理",
+            "path": "math/hm/hma-4-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-06.flv",
+            "duration": 910
+          },
+          {
+            "position": 7,
+            "title": "接線と弦のつくる角",
+            "path": "math/hm/hma-4-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-07.flv",
+            "duration": 536
+          },
+          {
+            "position": 8,
+            "title": "4点が同一円周上にある条件",
+            "path": "math/hm/hma-4-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-08.flv",
+            "duration": 1558
+          },
+          {
+            "position": 9,
+            "title": "垂心",
+            "path": "math/hm/hma-4-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-09.flv",
+            "duration": 424
+          },
+          {
+            "position": 10,
+            "title": "方べきの定理",
+            "path": "math/hm/hma-4-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-10.flv",
+            "duration": 1002
+          },
+          {
+            "position": 11,
+            "title": "2つの円の位置関係",
+            "path": "math/hm/hma-4-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hma-4-11.flv",
+            "duration": 890
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "数学II",
+    "slug": "hm2",
+    "url": "http://edupa.org/?p=915",
+    "chapters": [
+      {
+        "title": "数と式",
+        "slug": "hm2-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "整式の割り算",
+            "path": "math/hm/hm2-1-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-01.flv",
+            "duration": 1486
+          },
+          {
+            "position": 2,
+            "title": "剰余の定理",
+            "path": "math/hm/hm2-1-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-02.flv",
+            "duration": 1193
+          },
+          {
+            "position": 3,
+            "title": "因数定理",
+            "path": "math/hm/hm2-1-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-03.flv",
+            "duration": 546
+          },
+          {
+            "position": 4,
+            "title": "分数式",
+            "path": "math/hm/hm2-1-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-04.flv",
+            "duration": 510
+          },
+          {
+            "position": 5,
+            "title": "分数式の計算",
+            "path": "math/hm/hm2-1-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-05.flv",
+            "duration": 876
+          },
+          {
+            "position": 6,
+            "title": "恒等式",
+            "path": "math/hm/hm2-1-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-06.flv",
+            "duration": 1270
+          },
+          {
+            "position": 7,
+            "title": "等式の証明",
+            "path": "math/hm/hm2-1-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-07.flv",
+            "duration": 941
+          },
+          {
+            "position": 8,
+            "title": "不等式の証明",
+            "path": "math/hm/hm2-1-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-08.flv",
+            "duration": 906
+          },
+          {
+            "position": 9,
+            "title": "平方の大小(三角不等式)",
+            "path": "math/hm/hm2-1-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-09.flv",
+            "duration": 823
+          },
+          {
+            "position": 10,
+            "title": "相加相乗その他絶対不等式とその応用①",
+            "path": "math/hm/hm2-1-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-10.flv",
+            "duration": 915
+          },
+          {
+            "position": 11,
+            "title": "相加相乗その他絶対不等式とその応用②",
+            "path": "math/hm/hm2-1-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-1-11.flv",
+            "duration": 535
+          }
+        ]
+      },
+      {
+        "title": "複素数と方程式",
+        "slug": "hm2-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "複素数",
+            "path": "math/hm/hm2-2-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-01.flv",
+            "duration": 916
+          },
+          {
+            "position": 2,
+            "title": "複素数の計算",
+            "path": "math/hm/hm2-2-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-02.flv",
+            "duration": 1222
+          },
+          {
+            "position": 3,
+            "title": "複素数の共役の概念",
+            "path": "math/hm/hm2-2-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-03.flv",
+            "duration": 448
+          },
+          {
+            "position": 4,
+            "title": "複素数の絶対値",
+            "path": "math/hm/hm2-2-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-04.flv",
+            "duration": 573
+          },
+          {
+            "position": 5,
+            "title": "複素数と2次方程式①",
+            "path": "math/hm/hm2-2-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-05.flv",
+            "duration": 904
+          },
+          {
+            "position": 6,
+            "title": "複素数と2次方程式②",
+            "path": "math/hm/hm2-2-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-06.flv",
+            "duration": 807
+          },
+          {
+            "position": 7,
+            "title": "解と係数の関係",
+            "path": "math/hm/hm2-2-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-07.flv",
+            "duration": 1170
+          },
+          {
+            "position": 8,
+            "title": "解と係数の関係の応用",
+            "path": "math/hm/hm2-2-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-08.flv",
+            "duration": 1337
+          },
+          {
+            "position": 9,
+            "title": "方程式の解と因数分解",
+            "path": "math/hm/hm2-2-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-09.flv",
+            "duration": 658
+          },
+          {
+            "position": 10,
+            "title": "高次方程式①",
+            "path": "math/hm/hm2-2-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-10.flv",
+            "duration": 1552
+          },
+          {
+            "position": 11,
+            "title": "高次方程式②",
+            "path": "math/hm/hm2-2-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-2-11.flv",
+            "duration": 1691
+          }
+        ]
+      },
+      {
+        "title": "図形と式",
+        "slug": "hm2-3",
+        "videos": [
+          {
+            "position": 1,
+            "title": "内分点・外分点",
+            "path": "math/hm/hm2-3-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-01.flv",
+            "duration": 957
+          },
+          {
+            "position": 2,
+            "title": "数直線上の内分点・外分点の座標①",
+            "path": "math/hm/hm2-3-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-02.flv",
+            "duration": 764
+          },
+          {
+            "position": 3,
+            "title": "数直線上の内分点・外分点の座標②",
+            "path": "math/hm/hm2-3-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-03.flv",
+            "duration": 834
+          },
+          {
+            "position": 4,
+            "title": "座標平面上の2点間の距離",
+            "path": "math/hm/hm2-3-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-04.flv",
+            "duration": 1150
+          },
+          {
+            "position": 5,
+            "title": "中線定理",
+            "path": "math/hm/hm2-3-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-05.flv",
+            "duration": 618
+          },
+          {
+            "position": 6,
+            "title": "座標平面上の内分点・外分点の座標",
+            "path": "math/hm/hm2-3-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-06.flv",
+            "duration": 704
+          },
+          {
+            "position": 7,
+            "title": "内分点・外分点の公式応用",
+            "path": "math/hm/hm2-3-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-07.flv",
+            "duration": 720
+          },
+          {
+            "position": 8,
+            "title": "図形と方程式",
+            "path": "math/hm/hm2-3-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-08.flv",
+            "duration": 961
+          },
+          {
+            "position": 9,
+            "title": "直線の方程式",
+            "path": "math/hm/hm2-3-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-09.flv",
+            "duration": 1057
+          },
+          {
+            "position": 10,
+            "title": "直線族の定点通過",
+            "path": "math/hm/hm2-3-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-10.flv",
+            "duration": 1070
+          },
+          {
+            "position": 11,
+            "title": "2直線の平行条件・垂直条件",
+            "path": "math/hm/hm2-3-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-11.flv",
+            "duration": 879
+          },
+          {
+            "position": 12,
+            "title": "垂直条件の応用",
+            "path": "math/hm/hm2-3-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-12.flv",
+            "duration": 1183
+          },
+          {
+            "position": 13,
+            "title": "点と直線の距離",
+            "path": "math/hm/hm2-3-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-13.flv",
+            "duration": 874
+          },
+          {
+            "position": 14,
+            "title": "円の方程式",
+            "path": "math/hm/hm2-3-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-14.flv",
+            "duration": 813
+          },
+          {
+            "position": 15,
+            "title": "円の方程式のもう一つの形",
+            "path": "math/hm/hm2-3-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-15.flv",
+            "duration": 570
+          },
+          {
+            "position": 16,
+            "title": "円の決定",
+            "path": "math/hm/hm2-3-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-16.flv",
+            "duration": 666
+          },
+          {
+            "position": 17,
+            "title": "円と直線の共有点",
+            "path": "math/hm/hm2-3-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-17.flv",
+            "duration": 1079
+          },
+          {
+            "position": 18,
+            "title": "円と直線の位置関係",
+            "path": "math/hm/hm2-3-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-18.flv",
+            "duration": 448
+          },
+          {
+            "position": 19,
+            "title": "円の接線の方程式",
+            "path": "math/hm/hm2-3-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-19.flv",
+            "duration": 984
+          },
+          {
+            "position": 20,
+            "title": "2円の位置関係",
+            "path": "math/hm/hm2-3-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-20.flv",
+            "duration": 495
+          },
+          {
+            "position": 21,
+            "title": "2円の交点を通る直線",
+            "path": "math/hm/hm2-3-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-21.flv",
+            "duration": 949
+          },
+          {
+            "position": 22,
+            "title": "軌跡とは",
+            "path": "math/hm/hm2-3-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-22.flv",
+            "duration": 898
+          },
+          {
+            "position": 23,
+            "title": "解析幾何による軌跡の基本",
+            "path": "math/hm/hm2-3-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-23.flv",
+            "duration": 958
+          },
+          {
+            "position": 24,
+            "title": "アポロニオスの円",
+            "path": "math/hm/hm2-3-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-24.flv",
+            "duration": 916
+          },
+          {
+            "position": 25,
+            "title": "軌跡としての放物線",
+            "path": "math/hm/hm2-3-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-25.flv",
+            "duration": 490
+          },
+          {
+            "position": 26,
+            "title": "平面上の点の変換",
+            "path": "math/hm/hm2-3-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-26.flv",
+            "duration": 590
+          },
+          {
+            "position": 27,
+            "title": "1次不等式の表す領域",
+            "path": "math/hm/hm2-3-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-27.flv",
+            "duration": 881
+          },
+          {
+            "position": 28,
+            "title": "円を境界にもつ領域",
+            "path": "math/hm/hm2-3-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-28.flv",
+            "duration": 369
+          },
+          {
+            "position": 29,
+            "title": "不等式f(x,y)>0の表す領域",
+            "path": "math/hm/hm2-3-29",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-29.flv",
+            "duration": 734
+          },
+          {
+            "position": 30,
+            "title": "連立不等式の表す領域",
+            "path": "math/hm/hm2-3-30",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-30.flv",
+            "duration": 1130
+          },
+          {
+            "position": 31,
+            "title": "線型計画法",
+            "path": "math/hm/hm2-3-31",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-31.flv",
+            "duration": 1227
+          },
+          {
+            "position": 32,
+            "title": "論理への応用",
+            "path": "math/hm/hm2-3-32",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-3-32.flv",
+            "duration": 851
+          }
+        ]
+      },
+      {
+        "title": "三角関数",
+        "slug": "hm2-4",
+        "videos": [
+          {
+            "position": 1,
+            "title": "一般角の考え",
+            "path": "math/hm/hm2-4-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-01.flv",
+            "duration": 790
+          },
+          {
+            "position": 2,
+            "title": "弧度法の考え",
+            "path": "math/hm/hm2-4-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-02.flv",
+            "duration": 1511
+          },
+          {
+            "position": 3,
+            "title": "三角関数の定義",
+            "path": "math/hm/hm2-4-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-03.flv",
+            "duration": 896
+          },
+          {
+            "position": 4,
+            "title": "三角関数の相互関係",
+            "path": "math/hm/hm2-4-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-04.flv",
+            "duration": 1317
+          },
+          {
+            "position": 5,
+            "title": "いろいろな角の三角関数",
+            "path": "math/hm/hm2-4-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-05.flv",
+            "duration": 1454
+          },
+          {
+            "position": 6,
+            "title": "関数 y= sin x のグラフ",
+            "path": "math/hm/hm2-4-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-06.flv",
+            "duration": 1095
+          },
+          {
+            "position": 7,
+            "title": "y=sin x のグラフの変形",
+            "path": "math/hm/hm2-4-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-07.flv",
+            "duration": 1043
+          },
+          {
+            "position": 8,
+            "title": "y=cos x のグラフ",
+            "path": "math/hm/hm2-4-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-08.flv",
+            "duration": 655
+          },
+          {
+            "position": 9,
+            "title": "関数についてのことば",
+            "path": "math/hm/hm2-4-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-09.flv",
+            "duration": 603
+          },
+          {
+            "position": 10,
+            "title": "より一般的な波",
+            "path": "math/hm/hm2-4-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-10.flv",
+            "duration": 569
+          },
+          {
+            "position": 11,
+            "title": "y=tan x のグラフ",
+            "path": "math/hm/hm2-4-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-11.flv",
+            "duration": 672
+          },
+          {
+            "position": 12,
+            "title": "三角関数の方程式",
+            "path": "math/hm/hm2-4-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-12.flv",
+            "duration": 1286
+          },
+          {
+            "position": 13,
+            "title": "三角関数の不等式",
+            "path": "math/hm/hm2-4-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-13.flv",
+            "duration": 1455
+          },
+          {
+            "position": 14,
+            "title": "三角関数の関数",
+            "path": "math/hm/hm2-4-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-14.flv",
+            "duration": 1091
+          },
+          {
+            "position": 15,
+            "title": "加法定理(正弦・余弦)とその証明(1)",
+            "path": "math/hm/hm2-4-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-15.flv",
+            "duration": 1422
+          },
+          {
+            "position": 16,
+            "title": "加法定理(正弦・余弦)とその証明(2)",
+            "path": "math/hm/hm2-4-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-16.flv",
+            "duration": 1054
+          },
+          {
+            "position": 17,
+            "title": "加法定理の適用例",
+            "path": "math/hm/hm2-4-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-17.flv",
+            "duration": 739
+          },
+          {
+            "position": 18,
+            "title": "正接の加法定理",
+            "path": "math/hm/hm2-4-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-18.flv",
+            "duration": 869
+          },
+          {
+            "position": 19,
+            "title": "2倍角の公式、3倍角の公式",
+            "path": "math/hm/hm2-4-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-19.flv",
+            "duration": 992
+          },
+          {
+            "position": 20,
+            "title": "半角の公式",
+            "path": "math/hm/hm2-4-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-20.flv",
+            "duration": 1174
+          },
+          {
+            "position": 21,
+            "title": "単振動とその合成",
+            "path": "math/hm/hm2-4-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-21.flv",
+            "duration": 950
+          },
+          {
+            "position": 22,
+            "title": "三角関数の合成",
+            "path": "math/hm/hm2-4-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-22.flv",
+            "duration": 1408
+          },
+          {
+            "position": 23,
+            "title": "三角関数の合成の図形的意味と応用",
+            "path": "math/hm/hm2-4-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-23.flv",
+            "duration": 910
+          },
+          {
+            "position": 24,
+            "title": "加法定理のその他の応用",
+            "path": "math/hm/hm2-4-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-24.flv",
+            "duration": 954
+          },
+          {
+            "position": 25,
+            "title": "加法定理と指数法則",
+            "path": "math/hm/hm2-4-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-4-25.flv",
+            "duration": 731
+          }
+        ]
+      },
+      {
+        "title": "指数関数と対数関数",
+        "slug": "hm2-5",
+        "videos": [
+          {
+            "position": 1,
+            "title": "指数概念の拡張の必要性",
+            "path": "math/hm/hm2-5-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-01.flv",
+            "duration": 683
+          },
+          {
+            "position": 2,
+            "title": "整数指数への拡張",
+            "path": "math/hm/hm2-5-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-02.flv",
+            "duration": 1184
+          },
+          {
+            "position": 3,
+            "title": "累乗根 ・ n乗根",
+            "path": "math/hm/hm2-5-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-03.flv",
+            "duration": 986
+          },
+          {
+            "position": 4,
+            "title": "累乗根の性質と計算",
+            "path": "math/hm/hm2-5-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-04.flv",
+            "duration": 1524
+          },
+          {
+            "position": 5,
+            "title": "有理数 ・ 実数指数の定義",
+            "path": "math/hm/hm2-5-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-05.flv",
+            "duration": 1862
+          },
+          {
+            "position": 6,
+            "title": "y=2x のグラフ",
+            "path": "math/hm/hm2-5-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-06.flv",
+            "duration": 495
+          },
+          {
+            "position": 7,
+            "title": "y=ax のグラフ",
+            "path": "math/hm/hm2-5-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-07.flv",
+            "duration": 1327
+          },
+          {
+            "position": 8,
+            "title": "指数関数の性質",
+            "path": "math/hm/hm2-5-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-08.flv",
+            "duration": 722
+          },
+          {
+            "position": 9,
+            "title": "指数方程式・指数不等式",
+            "path": "math/hm/hm2-5-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-09.flv",
+            "duration": 1117
+          },
+          {
+            "position": 10,
+            "title": "対数の定義",
+            "path": "math/hm/hm2-5-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-10.flv",
+            "duration": 997
+          },
+          {
+            "position": 11,
+            "title": "対数法則",
+            "path": "math/hm/hm2-5-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-11.flv",
+            "duration": 737
+          },
+          {
+            "position": 12,
+            "title": "底の変換公式",
+            "path": "math/hm/hm2-5-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-12.flv",
+            "duration": 713
+          },
+          {
+            "position": 13,
+            "title": "対数関数のグラフ",
+            "path": "math/hm/hm2-5-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-13.flv",
+            "duration": 772
+          },
+          {
+            "position": 14,
+            "title": "高い立場から見た逆関数",
+            "path": "math/hm/hm2-5-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-14.flv",
+            "duration": 1766
+          },
+          {
+            "position": 15,
+            "title": "単調関数の性質",
+            "path": "math/hm/hm2-5-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-15.flv",
+            "duration": 794
+          },
+          {
+            "position": 16,
+            "title": "対数方程式、対数不等式",
+            "path": "math/hm/hm2-5-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-16.flv",
+            "duration": 1702
+          },
+          {
+            "position": 17,
+            "title": "常用対数の応用(1)",
+            "path": "math/hm/hm2-5-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-17.flv",
+            "duration": 962
+          },
+          {
+            "position": 18,
+            "title": "常用対数の応用(2)",
+            "path": "math/hm/hm2-5-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-18.flv",
+            "duration": 1122
+          },
+          {
+            "position": 19,
+            "title": "対数の科学における基本的応用",
+            "path": "math/hm/hm2-5-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-19.flv",
+            "duration": 918
+          },
+          {
+            "position": 20,
+            "title": "まとめ",
+            "path": "math/hm/hm2-5-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-5-20.flv",
+            "duration": 438
+          }
+        ]
+      },
+      {
+        "title": "微分法と積分法",
+        "slug": "hm2-6",
+        "videos": [
+          {
+            "position": 1,
+            "title": "微分の出発点① 平均変化率",
+            "path": "math/hm/hm2-6-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-01.flv",
+            "duration": 860
+          },
+          {
+            "position": 2,
+            "title": "微分の出発点② 極限値",
+            "path": "math/hm/hm2-6-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-02.flv",
+            "duration": 870
+          },
+          {
+            "position": 3,
+            "title": "微分係数とその意味",
+            "path": "math/hm/hm2-6-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-03.flv",
+            "duration": 1151
+          },
+          {
+            "position": 4,
+            "title": "導関数の概念",
+            "path": "math/hm/hm2-6-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-04.flv",
+            "duration": 900
+          },
+          {
+            "position": 5,
+            "title": "微分の基本公式",
+            "path": "math/hm/hm2-6-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-05.flv",
+            "duration": 897
+          },
+          {
+            "position": 6,
+            "title": "微分の基本性質",
+            "path": "math/hm/hm2-6-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-06.flv",
+            "duration": 775
+          },
+          {
+            "position": 7,
+            "title": "導関数の意義",
+            "path": "math/hm/hm2-6-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-07.flv",
+            "duration": 372
+          },
+          {
+            "position": 8,
+            "title": "発展",
+            "path": "math/hm/hm2-6-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-08.flv",
+            "duration": 530
+          },
+          {
+            "position": 9,
+            "title": "接線問題",
+            "path": "math/hm/hm2-6-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-09.flv",
+            "duration": 1192
+          },
+          {
+            "position": 10,
+            "title": "区間と増減",
+            "path": "math/hm/hm2-6-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-10.flv",
+            "duration": 1116
+          },
+          {
+            "position": 11,
+            "title": "微分と増減",
+            "path": "math/hm/hm2-6-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-11.flv",
+            "duration": 645
+          },
+          {
+            "position": 12,
+            "title": "増減表と極値",
+            "path": "math/hm/hm2-6-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-12.flv",
+            "duration": 849
+          },
+          {
+            "position": 13,
+            "title": "極値の必要条件・十分条件",
+            "path": "math/hm/hm2-6-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-13.flv",
+            "duration": 1263
+          },
+          {
+            "position": 14,
+            "title": "最大最小問題への応用",
+            "path": "math/hm/hm2-6-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-14.flv",
+            "duration": 1713
+          },
+          {
+            "position": 15,
+            "title": "方程式への応用",
+            "path": "math/hm/hm2-6-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-15.flv",
+            "duration": 844
+          },
+          {
+            "position": 16,
+            "title": "不等式への応用",
+            "path": "math/hm/hm2-6-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-16.flv",
+            "duration": 836
+          },
+          {
+            "position": 17,
+            "title": "速度・加速度",
+            "path": "math/hm/hm2-6-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-17.flv",
+            "duration": 1336
+          },
+          {
+            "position": 18,
+            "title": "不定積分の概念",
+            "path": "math/hm/hm2-6-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-18.flv",
+            "duration": 1158
+          },
+          {
+            "position": 19,
+            "title": "不定積分の計算",
+            "path": "math/hm/hm2-6-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-19.flv",
+            "duration": 716
+          },
+          {
+            "position": 20,
+            "title": "積分変数の概念",
+            "path": "math/hm/hm2-6-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-20.flv",
+            "duration": 476
+          },
+          {
+            "position": 21,
+            "title": "不定積分の応用",
+            "path": "math/hm/hm2-6-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-21.flv",
+            "duration": 640
+          },
+          {
+            "position": 22,
+            "title": "定積分の概念",
+            "path": "math/hm/hm2-6-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-22.flv",
+            "duration": 1422
+          },
+          {
+            "position": 23,
+            "title": "定積分の基本性質",
+            "path": "math/hm/hm2-6-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-23.flv",
+            "duration": 1030
+          },
+          {
+            "position": 24,
+            "title": "逆微分としての面積",
+            "path": "math/hm/hm2-6-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-24.flv",
+            "duration": 1147
+          },
+          {
+            "position": 25,
+            "title": "定積分の加法性の直観的意味",
+            "path": "math/hm/hm2-6-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-25.flv",
+            "duration": 819
+          },
+          {
+            "position": 26,
+            "title": "定積分で表された関数方程式",
+            "path": "math/hm/hm2-6-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-26.flv",
+            "duration": 943
+          },
+          {
+            "position": 27,
+            "title": "求面積の基礎",
+            "path": "math/hm/hm2-6-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-27.flv",
+            "duration": 521
+          },
+          {
+            "position": 28,
+            "title": "2次関数の定積分の公式",
+            "path": "math/hm/hm2-6-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-28.flv",
+            "duration": 965
+          },
+          {
+            "position": 29,
+            "title": "カヴァリエリの原理",
+            "path": "math/hm/hm2-6-29",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-29.flv",
+            "duration": 951
+          },
+          {
+            "position": 30,
+            "title": "球面積の実際",
+            "path": "math/hm/hm2-6-30",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-30.flv",
+            "duration": 949
+          },
+          {
+            "position": 31,
+            "title": "負の面積",
+            "path": "math/hm/hm2-6-31",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-31.flv",
+            "duration": 1040
+          },
+          {
+            "position": 32,
+            "title": "逆微分としての体積",
+            "path": "math/hm/hm2-6-32",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-32.flv",
+            "duration": 726
+          },
+          {
+            "position": 33,
+            "title": "円錐と球の体積",
+            "path": "math/hm/hm2-6-33",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-33.flv",
+            "duration": 915
+          },
+          {
+            "position": 34,
+            "title": "区分求積法",
+            "path": "math/hm/hm2-6-34",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm2-6-34.flv",
+            "duration": 741
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "数学B",
+    "slug": "hmb",
+    "url": "http://edupa.org/?p=933",
+    "chapters": [
+      {
+        "title": "数列",
+        "slug": "hmb-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "数列序論",
+            "path": "math/hm/hmb-1-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-01.flv",
+            "duration": 756
+          },
+          {
+            "position": 2,
+            "title": "数列の基本概念",
+            "path": "math/hm/hmb-1-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-02.flv",
+            "duration": 1202
+          },
+          {
+            "position": 3,
+            "title": "等差数列",
+            "path": "math/hm/hmb-1-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-03.flv",
+            "duration": 1318
+          },
+          {
+            "position": 4,
+            "title": "等差中項(相加平均)",
+            "path": "math/hm/hmb-1-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-04.flv",
+            "duration": 349
+          },
+          {
+            "position": 5,
+            "title": "調和数列",
+            "path": "math/hm/hmb-1-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-05.flv",
+            "duration": 602
+          },
+          {
+            "position": 6,
+            "title": "自然数列の和",
+            "path": "math/hm/hmb-1-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-06.flv",
+            "duration": 465
+          },
+          {
+            "position": 7,
+            "title": "等差数列の和の公式",
+            "path": "math/hm/hmb-1-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-07.flv",
+            "duration": 787
+          },
+          {
+            "position": 8,
+            "title": "等差数列の和の応用",
+            "path": "math/hm/hmb-1-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-08.flv",
+            "duration": 849
+          },
+          {
+            "position": 9,
+            "title": "等比数列",
+            "path": "math/hm/hmb-1-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-09.flv",
+            "duration": 1225
+          },
+          {
+            "position": 10,
+            "title": "等比数列の和",
+            "path": "math/hm/hmb-1-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-10.flv",
+            "duration": 1360
+          },
+          {
+            "position": 11,
+            "title": "平方の数列の和",
+            "path": "math/hm/hmb-1-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-11.flv",
+            "duration": 1187
+          },
+          {
+            "position": 12,
+            "title": "立方数列の和",
+            "path": "math/hm/hmb-1-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-12.flv",
+            "duration": 687
+          },
+          {
+            "position": 13,
+            "title": "Σ記号の基本",
+            "path": "math/hm/hmb-1-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-13.flv",
+            "duration": 1099
+          },
+          {
+            "position": 14,
+            "title": "Σ記号を使った計算",
+            "path": "math/hm/hmb-1-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-14.flv",
+            "duration": 1098
+          },
+          {
+            "position": 15,
+            "title": "Σ記号の基本 数学的に厳密な定義",
+            "path": "math/hm/hmb-1-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-15.flv",
+            "duration": 415
+          },
+          {
+            "position": 16,
+            "title": "階差数列とその応用",
+            "path": "math/hm/hmb-1-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-16.flv",
+            "duration": 1267
+          },
+          {
+            "position": 17,
+            "title": "数列和の列の階差",
+            "path": "math/hm/hmb-1-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-17.flv",
+            "duration": 929
+          },
+          {
+            "position": 18,
+            "title": "数列和の計算の基本原理",
+            "path": "math/hm/hmb-1-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-18.flv",
+            "duration": 979
+          },
+          {
+            "position": 19,
+            "title": "数列和の応用問題",
+            "path": "math/hm/hmb-1-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-19.flv",
+            "duration": 959
+          },
+          {
+            "position": 20,
+            "title": "差分と和分",
+            "path": "math/hm/hmb-1-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-20.flv",
+            "duration": 456
+          },
+          {
+            "position": 21,
+            "title": "漸化式の考え方",
+            "path": "math/hm/hmb-1-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-21.flv",
+            "duration": 928
+          },
+          {
+            "position": 22,
+            "title": "漸化式階差数列",
+            "path": "math/hm/hmb-1-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-22.flv",
+            "duration": 623
+          },
+          {
+            "position": 23,
+            "title": "隣接2項間線型漸化式",
+            "path": "math/hm/hmb-1-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-23.flv",
+            "duration": 1254
+          },
+          {
+            "position": 24,
+            "title": "漸化式の応用",
+            "path": "math/hm/hmb-1-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-24.flv",
+            "duration": 780
+          },
+          {
+            "position": 25,
+            "title": "漸化式の解法の原理",
+            "path": "math/hm/hmb-1-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-25.flv",
+            "duration": 1333
+          },
+          {
+            "position": 26,
+            "title": "線型3項間漸化式",
+            "path": "math/hm/hmb-1-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-26.flv",
+            "duration": 1182
+          },
+          {
+            "position": 27,
+            "title": "解けない漸化式",
+            "path": "math/hm/hmb-1-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-27.flv",
+            "duration": 1031
+          },
+          {
+            "position": 28,
+            "title": "数学的帰納法の考え方",
+            "path": "math/hm/hmb-1-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-28.flv",
+            "duration": 739
+          },
+          {
+            "position": 29,
+            "title": "数学的帰納法の練習・等式の証明",
+            "path": "math/hm/hmb-1-29",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-29.flv",
+            "duration": 784
+          },
+          {
+            "position": 30,
+            "title": "数学的帰納法の練習・不等式の証明",
+            "path": "math/hm/hmb-1-30",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-30.flv",
+            "duration": 1290
+          },
+          {
+            "position": 31,
+            "title": "フィボナッチ数列",
+            "path": "math/hm/hmb-1-31",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-1-31.flv",
+            "duration": 1228
+          }
+        ]
+      },
+      {
+        "title": "ベクトル",
+        "slug": "hmb-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "ベクトルの概念",
+            "path": "math/hm/hmb-2-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-01.flv",
+            "duration": 1102
+          },
+          {
+            "position": 2,
+            "title": "ベクトルの演算(1) –加法–",
+            "path": "math/hm/hmb-2-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-02.flv",
+            "duration": 1423
+          },
+          {
+            "position": 3,
+            "title": "ベクトルの演算(2) –実数倍–",
+            "path": "math/hm/hmb-2-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-03.flv",
+            "duration": 1206
+          },
+          {
+            "position": 4,
+            "title": "ベクトルの分解",
+            "path": "math/hm/hmb-2-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-04.flv",
+            "duration": 981
+          },
+          {
+            "position": 5,
+            "title": "基本ベクトルと成分表示",
+            "path": "math/hm/hmb-2-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-05.flv",
+            "duration": 1505
+          },
+          {
+            "position": 6,
+            "title": "有向線分の表すベクトルの成分表示",
+            "path": "math/hm/hmb-2-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-06.flv",
+            "duration": 694
+          },
+          {
+            "position": 7,
+            "title": "ベクトルの内積(1)",
+            "path": "math/hm/hmb-2-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-07.flv",
+            "duration": 1052
+          },
+          {
+            "position": 8,
+            "title": "ベクトルの内積(2)",
+            "path": "math/hm/hmb-2-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-08.flv",
+            "duration": 1370
+          },
+          {
+            "position": 9,
+            "title": "ベクトルの内積(3)",
+            "path": "math/hm/hmb-2-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-09.flv",
+            "duration": 662
+          },
+          {
+            "position": 10,
+            "title": "位置ベクトル",
+            "path": "math/hm/hmb-2-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-10.flv",
+            "duration": 1406
+          },
+          {
+            "position": 11,
+            "title": "図形問題への応用",
+            "path": "math/hm/hmb-2-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-11.flv",
+            "duration": 446
+          },
+          {
+            "position": 12,
+            "title": "共線条件",
+            "path": "math/hm/hmb-2-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-12.flv",
+            "duration": 1721
+          },
+          {
+            "position": 13,
+            "title": "図形問題への内積の応用",
+            "path": "math/hm/hmb-2-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-13.flv",
+            "duration": 698
+          },
+          {
+            "position": 14,
+            "title": "直線のベクトル方程式",
+            "path": "math/hm/hmb-2-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-14.flv",
+            "duration": 919
+          },
+          {
+            "position": 15,
+            "title": "線分・半直線のベクトル方程式",
+            "path": "math/hm/hmb-2-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-15.flv",
+            "duration": 964
+          },
+          {
+            "position": 16,
+            "title": "線分のベクトル方程式の応用",
+            "path": "math/hm/hmb-2-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-16.flv",
+            "duration": 1433
+          },
+          {
+            "position": 17,
+            "title": "内積を使ったベクトル方程式",
+            "path": "math/hm/hmb-2-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-17.flv",
+            "duration": 788
+          },
+          {
+            "position": 18,
+            "title": "空間における平面と直線",
+            "path": "math/hm/hmb-2-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-18.flv",
+            "duration": 871
+          },
+          {
+            "position": 19,
+            "title": "空間座標の基本",
+            "path": "math/hm/hmb-2-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-19.flv",
+            "duration": 944
+          },
+          {
+            "position": 20,
+            "title": "空間における2点間の距離",
+            "path": "math/hm/hmb-2-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-20.flv",
+            "duration": 1238
+          },
+          {
+            "position": 21,
+            "title": "空間ベクトルの基本",
+            "path": "math/hm/hmb-2-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-21.flv",
+            "duration": 626
+          },
+          {
+            "position": 22,
+            "title": "空間ベクトルの成分",
+            "path": "math/hm/hmb-2-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-22.flv",
+            "duration": 1158
+          },
+          {
+            "position": 23,
+            "title": "空間ベクトルの内積",
+            "path": "math/hm/hmb-2-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-23.flv",
+            "duration": 810
+          },
+          {
+            "position": 24,
+            "title": "空間ベクトルの直交条件",
+            "path": "math/hm/hmb-2-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-24.flv",
+            "duration": 874
+          },
+          {
+            "position": 25,
+            "title": "空間ベクトルの外積",
+            "path": "math/hm/hmb-2-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-25.flv",
+            "duration": 774
+          },
+          {
+            "position": 26,
+            "title": "空間の位置ベクトル",
+            "path": "math/hm/hmb-2-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-26.flv",
+            "duration": 1402
+          },
+          {
+            "position": 27,
+            "title": "共面条件",
+            "path": "math/hm/hmb-2-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-27.flv",
+            "duration": 1609
+          },
+          {
+            "position": 28,
+            "title": "空間ベクトルの直行条件の応用",
+            "path": "math/hm/hmb-2-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-28.flv",
+            "duration": 693
+          },
+          {
+            "position": 29,
+            "title": "空間における平面の方程式",
+            "path": "math/hm/hmb-2-29",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-29.flv",
+            "duration": 676
+          },
+          {
+            "position": 30,
+            "title": "空間における直線の方程式",
+            "path": "math/hm/hmb-2-30",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-30.flv",
+            "duration": 855
+          },
+          {
+            "position": 31,
+            "title": "空間における曲面の方程式",
+            "path": "math/hm/hmb-2-31",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-31.flv",
+            "duration": 630
+          },
+          {
+            "position": 32,
+            "title": "コーシーの不等式",
+            "path": "math/hm/hmb-2-32",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-32.flv",
+            "duration": 935
+          },
+          {
+            "position": 33,
+            "title": "正射影",
+            "path": "math/hm/hmb-2-33",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-2-33.flv",
+            "duration": 579
+          }
+        ]
+      },
+      {
+        "title": "複素平面",
+        "slug": "hmb-3",
+        "videos": [
+          {
+            "position": 1,
+            "title": "複素平面の基本概念",
+            "path": "math/hm/hmb-3-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-01.flv",
+            "duration": 819
+          },
+          {
+            "position": 2,
+            "title": "複素数の基本概念",
+            "path": "math/hm/hmb-3-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-02.flv",
+            "duration": 822
+          },
+          {
+            "position": 3,
+            "title": "ベクトルの代数演算",
+            "path": "math/hm/hmb-3-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-03.flv",
+            "duration": 742
+          },
+          {
+            "position": 4,
+            "title": "共役複素数",
+            "path": "math/hm/hmb-3-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-04.flv",
+            "duration": 926
+          },
+          {
+            "position": 5,
+            "title": "複素数の極形式",
+            "path": "math/hm/hmb-3-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-05.flv",
+            "duration": 1044
+          },
+          {
+            "position": 6,
+            "title": "ド・モアブルの定理",
+            "path": "math/hm/hmb-3-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-06.flv",
+            "duration": 536
+          },
+          {
+            "position": 7,
+            "title": "1のn乗根",
+            "path": "math/hm/hmb-3-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-07.flv",
+            "duration": 1432
+          },
+          {
+            "position": 8,
+            "title": "一般の数のn乗根",
+            "path": "math/hm/hmb-3-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-08.flv",
+            "duration": 979
+          },
+          {
+            "position": 9,
+            "title": "正五角形の作図",
+            "path": "math/hm/hmb-3-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-09.flv",
+            "duration": 1731
+          },
+          {
+            "position": 10,
+            "title": "複素平面の応用(1)",
+            "path": "math/hm/hmb-3-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-10.flv",
+            "duration": 1000
+          },
+          {
+            "position": 11,
+            "title": "複素平面の応用(2)",
+            "path": "math/hm/hmb-3-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-11.flv",
+            "duration": 1126
+          },
+          {
+            "position": 12,
+            "title": "複素平面上の点の軌跡",
+            "path": "math/hm/hmb-3-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-12.flv",
+            "duration": 1262
+          },
+          {
+            "position": 13,
+            "title": "複素関数(1)–1次関数",
+            "path": "math/hm/hmb-3-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-13.flv",
+            "duration": 730
+          },
+          {
+            "position": 14,
+            "title": "複素関数(2)–分数関数の基本(1)",
+            "path": "math/hm/hmb-3-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-14.flv",
+            "duration": 979
+          },
+          {
+            "position": 15,
+            "title": "複素関数(2)–分数関数の基本(2)",
+            "path": "math/hm/hmb-3-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-15.flv",
+            "duration": 1069
+          },
+          {
+            "position": 16,
+            "title": "w = 1/zの円対応",
+            "path": "math/hm/hmb-3-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-16.flv",
+            "duration": 698
+          },
+          {
+            "position": 17,
+            "title": "複素1次分数関数",
+            "path": "math/hm/hmb-3-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-17.flv",
+            "duration": 604
+          },
+          {
+            "position": 18,
+            "title": "複素2次関数",
+            "path": "math/hm/hmb-3-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-3-18.flv",
+            "duration": 1170
+          }
+        ]
+      },
+      {
+        "title": "微分方程式",
+        "slug": "hmb-4",
+        "videos": [
+          {
+            "position": 1,
+            "title": "微分方程式とは",
+            "path": "math/hm/hmb-4-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-01.flv",
+            "duration": 718
+          },
+          {
+            "position": 2,
+            "title": "運動と微分方程式",
+            "path": "math/hm/hmb-4-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-02.flv",
+            "duration": 1030
+          },
+          {
+            "position": 3,
+            "title": "初期条件、一般解と特殊解",
+            "path": "math/hm/hmb-4-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-03.flv",
+            "duration": 846
+          },
+          {
+            "position": 4,
+            "title": "微分方程式の解法の基礎(変数分離形)",
+            "path": "math/hm/hmb-4-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-04.flv",
+            "duration": 682
+          },
+          {
+            "position": 5,
+            "title": "最も基本的な自然現象のモデル(爆発型)",
+            "path": "math/hm/hmb-4-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-05.flv",
+            "duration": 900
+          },
+          {
+            "position": 6,
+            "title": "抑制機構のある現象のモデル(環境悪化,抵抗)",
+            "path": "math/hm/hmb-4-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-06.flv",
+            "duration": 1729
+          },
+          {
+            "position": 7,
+            "title": "振動現象のモデル",
+            "path": "math/hm/hmb-4-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-07.flv",
+            "duration": 627
+          },
+          {
+            "position": 8,
+            "title": "数理的な自然観",
+            "path": "math/hm/hmb-4-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-08.flv",
+            "duration": 842
+          },
+          {
+            "position": 9,
+            "title": "定数変化法への還元",
+            "path": "math/hm/hmb-4-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-09.flv",
+            "duration": 1843
+          },
+          {
+            "position": 10,
+            "title": "線型同次微分方程式",
+            "path": "math/hm/hmb-4-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-10.flv",
+            "duration": 821
+          },
+          {
+            "position": 11,
+            "title": "定数係数線型同次微分方程式",
+            "path": "math/hm/hmb-4-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-11.flv",
+            "duration": 1263
+          },
+          {
+            "position": 12,
+            "title": "線型2階微分方程式と連立線型1階",
+            "path": "math/hm/hmb-4-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmb-4-12.flv",
+            "duration": 920
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "数学III",
+    "slug": "hm3",
+    "url": "http://edupa.org/?p=929",
+    "chapters": [
+      {
+        "title": "関数",
+        "slug": "hm3-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "一次分数関数の基本",
+            "path": "math/hm/hm3-1-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-01.flv",
+            "duration": 1036
+          },
+          {
+            "position": 2,
+            "title": "一次分数関数のグラフ",
+            "path": "math/hm/hm3-1-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-02.flv",
+            "duration": 876
+          },
+          {
+            "position": 3,
+            "title": "分数方程式・分数不等式",
+            "path": "math/hm/hm3-1-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-03.flv",
+            "duration": 1143
+          },
+          {
+            "position": 4,
+            "title": "無理関数のグラフ",
+            "path": "math/hm/hm3-1-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-04.flv",
+            "duration": 719
+          },
+          {
+            "position": 5,
+            "title": "無理関数のグラフの変形",
+            "path": "math/hm/hm3-1-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-05.flv",
+            "duration": 992
+          },
+          {
+            "position": 6,
+            "title": "やや複雑な無理関数のグラフ",
+            "path": "math/hm/hm3-1-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-06.flv",
+            "duration": 858
+          },
+          {
+            "position": 7,
+            "title": "合成関数",
+            "path": "math/hm/hm3-1-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-07.flv",
+            "duration": 767
+          },
+          {
+            "position": 8,
+            "title": "無理方程式・無理不等式",
+            "path": "math/hm/hm3-1-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-08.flv",
+            "duration": 1485
+          },
+          {
+            "position": 9,
+            "title": "逆関数に向かって",
+            "path": "math/hm/hm3-1-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-09.flv",
+            "duration": 492
+          },
+          {
+            "position": 10,
+            "title": "逆関数の理論と実践",
+            "path": "math/hm/hm3-1-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-10.flv",
+            "duration": 1658
+          },
+          {
+            "position": 11,
+            "title": "三角関数の複雑な公式(1)",
+            "path": "math/hm/hm3-1-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-11.flv",
+            "duration": 1089
+          },
+          {
+            "position": 12,
+            "title": "三角関数の複雑な公式(2)",
+            "path": "math/hm/hm3-1-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-1-12.flv",
+            "duration": 1108
+          }
+        ]
+      },
+      {
+        "title": "極限",
+        "slug": "hm3-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "数列の極限値",
+            "path": "math/hm/hm3-2-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-01.flv",
+            "duration": 1364
+          },
+          {
+            "position": 2,
+            "title": "発散する数列",
+            "path": "math/hm/hm3-2-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-02.flv",
+            "duration": 952
+          },
+          {
+            "position": 3,
+            "title": "数列の極限…特に等比数列の極限",
+            "path": "math/hm/hm3-2-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-03.flv",
+            "duration": 928
+          },
+          {
+            "position": 4,
+            "title": "極限の理論",
+            "path": "math/hm/hm3-2-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-04.flv",
+            "duration": 597
+          },
+          {
+            "position": 5,
+            "title": "極限値の性質",
+            "path": "math/hm/hm3-2-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-05.flv",
+            "duration": 1490
+          },
+          {
+            "position": 6,
+            "title": "漸化式で定められる数列の極限",
+            "path": "math/hm/hm3-2-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-06.flv",
+            "duration": 790
+          },
+          {
+            "position": 7,
+            "title": "不定形",
+            "path": "math/hm/hm3-2-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-07.flv",
+            "duration": 1005
+          },
+          {
+            "position": 8,
+            "title": "はさみうちの原理",
+            "path": "math/hm/hm3-2-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-08.flv",
+            "duration": 853
+          },
+          {
+            "position": 9,
+            "title": "【発展】単調な有界列",
+            "path": "math/hm/hm3-2-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-09.flv",
+            "duration": 866
+          },
+          {
+            "position": 10,
+            "title": "【発展】数列による自然対数の底",
+            "path": "math/hm/hm3-2-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-10.flv",
+            "duration": 970
+          },
+          {
+            "position": 11,
+            "title": "無限級数",
+            "path": "math/hm/hm3-2-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-11.flv",
+            "duration": 1117
+          },
+          {
+            "position": 12,
+            "title": "無限級数の収束・発散",
+            "path": "math/hm/hm3-2-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-12.flv",
+            "duration": 565
+          },
+          {
+            "position": 13,
+            "title": "無限等比級数",
+            "path": "math/hm/hm3-2-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-13.flv",
+            "duration": 837
+          },
+          {
+            "position": 14,
+            "title": "無限等比級数の応用",
+            "path": "math/hm/hm3-2-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-14.flv",
+            "duration": 1292
+          },
+          {
+            "position": 15,
+            "title": "無限等比級数の線型性",
+            "path": "math/hm/hm3-2-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-15.flv",
+            "duration": 836
+          },
+          {
+            "position": 16,
+            "title": "級数が収束するための必要条件",
+            "path": "math/hm/hm3-2-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-16.flv",
+            "duration": 1161
+          },
+          {
+            "position": 17,
+            "title": "x → ± ∞ の極限",
+            "path": "math/hm/hm3-2-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-17.flv",
+            "duration": 961
+          },
+          {
+            "position": 18,
+            "title": "x → ∞ のときの極限値の性質",
+            "path": "math/hm/hm3-2-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-18.flv",
+            "duration": 850
+          },
+          {
+            "position": 19,
+            "title": "関数の極限の不定形",
+            "path": "math/hm/hm3-2-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-19.flv",
+            "duration": 533
+          },
+          {
+            "position": 20,
+            "title": "x → ∞ のときの極限の応用",
+            "path": "math/hm/hm3-2-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-20.flv",
+            "duration": 562
+          },
+          {
+            "position": 21,
+            "title": "x → α のときの関数の極限",
+            "path": "math/hm/hm3-2-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-21.flv",
+            "duration": 1598
+          },
+          {
+            "position": 22,
+            "title": "関数の極限の計算",
+            "path": "math/hm/hm3-2-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-22.flv",
+            "duration": 991
+          },
+          {
+            "position": 23,
+            "title": "片側極限",
+            "path": "math/hm/hm3-2-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-23.flv",
+            "duration": 666
+          },
+          {
+            "position": 24,
+            "title": "極限の存在条件",
+            "path": "math/hm/hm3-2-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-24.flv",
+            "duration": 680
+          },
+          {
+            "position": 25,
+            "title": "関数についてのはさみうちの原理",
+            "path": "math/hm/hm3-2-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-25.flv",
+            "duration": 889
+          },
+          {
+            "position": 26,
+            "title": "指数の極限",
+            "path": "math/hm/hm3-2-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-26.flv",
+            "duration": 866
+          },
+          {
+            "position": 27,
+            "title": "対数関数の極限",
+            "path": "math/hm/hm3-2-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-27.flv",
+            "duration": 545
+          },
+          {
+            "position": 28,
+            "title": "指数・対数関数の極限の基本定理",
+            "path": "math/hm/hm3-2-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-28.flv",
+            "duration": 735
+          },
+          {
+            "position": 29,
+            "title": "x → 0 のときの sin x のふるまい",
+            "path": "math/hm/hm3-2-29",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-29.flv",
+            "duration": 539
+          },
+          {
+            "position": 30,
+            "title": "三角関数の極限についての基本定理の証明",
+            "path": "math/hm/hm3-2-30",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-30.flv",
+            "duration": 833
+          },
+          {
+            "position": 31,
+            "title": "三角関数の極限についての基本定理の図形的意味",
+            "path": "math/hm/hm3-2-31",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-31.flv",
+            "duration": 502
+          },
+          {
+            "position": 32,
+            "title": "三角関数の極限についての基本定理の応用",
+            "path": "math/hm/hm3-2-32",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-32.flv",
+            "duration": 1504
+          },
+          {
+            "position": 33,
+            "title": "関数の極限とグラフの連続性",
+            "path": "math/hm/hm3-2-33",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-33.flv",
+            "duration": 532
+          },
+          {
+            "position": 34,
+            "title": "連続関数・不連続関数",
+            "path": "math/hm/hm3-2-34",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-34.flv",
+            "duration": 1422
+          },
+          {
+            "position": 35,
+            "title": "連続関数の極限の不思議",
+            "path": "math/hm/hm3-2-35",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-35.flv",
+            "duration": 614
+          },
+          {
+            "position": 36,
+            "title": "中間値の定理とその応用",
+            "path": "math/hm/hm3-2-36",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-36.flv",
+            "duration": 773
+          },
+          {
+            "position": 37,
+            "title": "微分法の基礎概念",
+            "path": "math/hm/hm3-2-37",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-37.flv",
+            "duration": 1017
+          },
+          {
+            "position": 38,
+            "title": "導関数",
+            "path": "math/hm/hm3-2-38",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-2-38.flv",
+            "duration": 1064
+          }
+        ]
+      },
+      {
+        "title": "微分法",
+        "slug": "hm3-3",
+        "videos": [
+          {
+            "position": 1,
+            "title": "微分の基本公式(1)多項式の微分",
+            "path": "math/hm/hm3-3-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-01.flv",
+            "duration": 872
+          },
+          {
+            "position": 2,
+            "title": "微分 可能性をめぐる基本問題",
+            "path": "math/hm/hm3-3-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-02.flv",
+            "duration": 787
+          },
+          {
+            "position": 3,
+            "title": "微分の基本公式(2)積の微分公式",
+            "path": "math/hm/hm3-3-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-03.flv",
+            "duration": 883
+          },
+          {
+            "position": 4,
+            "title": "微分の基本公式(3)商の微分公式",
+            "path": "math/hm/hm3-3-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-04.flv",
+            "duration": 803
+          },
+          {
+            "position": 5,
+            "title": "微分の基本公式(4)Xnの導関数",
+            "path": "math/hm/hm3-3-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-05.flv",
+            "duration": 427
+          },
+          {
+            "position": 6,
+            "title": "微分の基本公式(5)合成関数の微分法",
+            "path": "math/hm/hm3-3-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-06.flv",
+            "duration": 1160
+          },
+          {
+            "position": 7,
+            "title": "微分の基本公式(6)逆関数の微分法",
+            "path": "math/hm/hm3-3-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-07.flv",
+            "duration": 504
+          },
+          {
+            "position": 8,
+            "title": "微分の基本公式(7)Xrの微分公式",
+            "path": "math/hm/hm3-3-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-08.flv",
+            "duration": 748
+          },
+          {
+            "position": 9,
+            "title": "三角関数の微分",
+            "path": "math/hm/hm3-3-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-09.flv",
+            "duration": 1279
+          },
+          {
+            "position": 10,
+            "title": "自然対数",
+            "path": "math/hm/hm3-3-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-10.flv",
+            "duration": 889
+          },
+          {
+            "position": 11,
+            "title": "対数関数の微分公式",
+            "path": "math/hm/hm3-3-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-11.flv",
+            "duration": 1107
+          },
+          {
+            "position": 12,
+            "title": "指数関数の導関数",
+            "path": "math/hm/hm3-3-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-12.flv",
+            "duration": 783
+          },
+          {
+            "position": 13,
+            "title": "高次導関数",
+            "path": "math/hm/hm3-3-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-13.flv",
+            "duration": 945
+          },
+          {
+            "position": 14,
+            "title": "陰関数の微分法",
+            "path": "math/hm/hm3-3-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-14.flv",
+            "duration": 864
+          },
+          {
+            "position": 15,
+            "title": "だ円と双曲線",
+            "path": "math/hm/hm3-3-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-15.flv",
+            "duration": 811
+          },
+          {
+            "position": 16,
+            "title": "媒介変数表示と導関数",
+            "path": "math/hm/hm3-3-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-16.flv",
+            "duration": 831
+          },
+          {
+            "position": 17,
+            "title": "陰関数とは",
+            "path": "math/hm/hm3-3-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-3-17.flv",
+            "duration": 552
+          }
+        ]
+      },
+      {
+        "title": "微分法の応用",
+        "slug": "hm3-4",
+        "videos": [
+          {
+            "position": 1,
+            "title": "接線・法線",
+            "path": "math/hm/hm3-4-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-01.flv",
+            "duration": 974
+          },
+          {
+            "position": 2,
+            "title": "だ円の接線",
+            "path": "math/hm/hm3-4-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-02.flv",
+            "duration": 847
+          },
+          {
+            "position": 3,
+            "title": "平均値の定理",
+            "path": "math/hm/hm3-4-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-03.flv",
+            "duration": 610
+          },
+          {
+            "position": 4,
+            "title": "平均値の定理についての注意事項",
+            "path": "math/hm/hm3-4-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-04.flv",
+            "duration": 565
+          },
+          {
+            "position": 5,
+            "title": "平均値の定理の理論的意義",
+            "path": "math/hm/hm3-4-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-05.flv",
+            "duration": 1218
+          },
+          {
+            "position": 6,
+            "title": "極値と微分係数",
+            "path": "math/hm/hm3-4-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-06.flv",
+            "duration": 717
+          },
+          {
+            "position": 7,
+            "title": "極値と増減表",
+            "path": "math/hm/hm3-4-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-07.flv",
+            "duration": 732
+          },
+          {
+            "position": 8,
+            "title": "2次導関数と凹凸",
+            "path": "math/hm/hm3-4-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-08.flv",
+            "duration": 623
+          },
+          {
+            "position": 9,
+            "title": "変曲点",
+            "path": "math/hm/hm3-4-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-09.flv",
+            "duration": 334
+          },
+          {
+            "position": 10,
+            "title": "増減凹凸表",
+            "path": "math/hm/hm3-4-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-10.flv",
+            "duration": 1147
+          },
+          {
+            "position": 11,
+            "title": "極値の十分条件",
+            "path": "math/hm/hm3-4-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-11.flv",
+            "duration": 598
+          },
+          {
+            "position": 12,
+            "title": "最大・最小、値域",
+            "path": "math/hm/hm3-4-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-12.flv",
+            "duration": 1620
+          },
+          {
+            "position": 13,
+            "title": "微分の不等式への応用",
+            "path": "math/hm/hm3-4-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-13.flv",
+            "duration": 655
+          },
+          {
+            "position": 14,
+            "title": "指数関数の発散速度",
+            "path": "math/hm/hm3-4-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-14.flv",
+            "duration": 1185
+          },
+          {
+            "position": 15,
+            "title": "微分の方程式への応用",
+            "path": "math/hm/hm3-4-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-15.flv",
+            "duration": 1038
+          },
+          {
+            "position": 16,
+            "title": "平均値の定理の応用",
+            "path": "math/hm/hm3-4-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-16.flv",
+            "duration": 429
+          },
+          {
+            "position": 17,
+            "title": "直線運動の速度・加速度",
+            "path": "math/hm/hm3-4-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-17.flv",
+            "duration": 1199
+          },
+          {
+            "position": 18,
+            "title": "平面運動の速度・加速度",
+            "path": "math/hm/hm3-4-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-18.flv",
+            "duration": 831
+          },
+          {
+            "position": 19,
+            "title": "微分と近似式",
+            "path": "math/hm/hm3-4-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-19.flv",
+            "duration": 778
+          },
+          {
+            "position": 20,
+            "title": "ロルの定理と平均値の定理",
+            "path": "math/hm/hm3-4-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-20.flv",
+            "duration": 1094
+          },
+          {
+            "position": 21,
+            "title": "コーシーの平均値の定理",
+            "path": "math/hm/hm3-4-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-21.flv",
+            "duration": 447
+          },
+          {
+            "position": 22,
+            "title": "いわゆるロピュタルの法則",
+            "path": "math/hm/hm3-4-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-22.flv",
+            "duration": 644
+          },
+          {
+            "position": 23,
+            "title": "テイラーの定理",
+            "path": "math/hm/hm3-4-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-23.flv",
+            "duration": 827
+          },
+          {
+            "position": 24,
+            "title": "テイラーの定理からテイラー展開へ",
+            "path": "math/hm/hm3-4-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-4-24.flv",
+            "duration": 804
+          }
+        ]
+      },
+      {
+        "title": "積分法",
+        "slug": "hm3-5",
+        "videos": [
+          {
+            "position": 1,
+            "title": "原始関数と不定積分",
+            "path": "math/hm/hm3-5-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-01.flv",
+            "duration": 595
+          },
+          {
+            "position": 2,
+            "title": "最も基本的な不定積分の公式",
+            "path": "math/hm/hm3-5-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-02.flv",
+            "duration": 746
+          },
+          {
+            "position": 3,
+            "title": "不定積分の基本性質",
+            "path": "math/hm/hm3-5-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-03.flv",
+            "duration": 872
+          },
+          {
+            "position": 4,
+            "title": "f(ax+b)の不定積分",
+            "path": "math/hm/hm3-5-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-04.flv",
+            "duration": 1083
+          },
+          {
+            "position": 5,
+            "title": "応用上重要なテイラー展開",
+            "path": "math/hm/hm3-5-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-05.flv",
+            "duration": 1357
+          },
+          {
+            "position": 6,
+            "title": "自然対数の底eの実際的な計算法",
+            "path": "math/hm/hm3-5-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-06.flv",
+            "duration": 625
+          },
+          {
+            "position": 7,
+            "title": "置換積分法",
+            "path": "math/hm/hm3-5-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-07.flv",
+            "duration": 1014
+          },
+          {
+            "position": 8,
+            "title": "もう一つの置換積分法",
+            "path": "math/hm/hm3-5-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-08.flv",
+            "duration": 612
+          },
+          {
+            "position": 9,
+            "title": "部分積分法",
+            "path": "math/hm/hm3-5-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-09.flv",
+            "duration": 852
+          },
+          {
+            "position": 10,
+            "title": "部分分数分解による分数関数の積分",
+            "path": "math/hm/hm3-5-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-10.flv",
+            "duration": 811
+          },
+          {
+            "position": 11,
+            "title": "手強い不定積分",
+            "path": "math/hm/hm3-5-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-11.flv",
+            "duration": 812
+          },
+          {
+            "position": 12,
+            "title": "定積分の基本概念",
+            "path": "math/hm/hm3-5-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-12.flv",
+            "duration": 971
+          },
+          {
+            "position": 13,
+            "title": "定積分と面積",
+            "path": "math/hm/hm3-5-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-13.flv",
+            "duration": 425
+          },
+          {
+            "position": 14,
+            "title": "定積分の基本性質",
+            "path": "math/hm/hm3-5-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-14.flv",
+            "duration": 747
+          },
+          {
+            "position": 15,
+            "title": "定積分の置換積分法の準備",
+            "path": "math/hm/hm3-5-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-15.flv",
+            "duration": 590
+          },
+          {
+            "position": 16,
+            "title": "定積分の置換積分法の実際",
+            "path": "math/hm/hm3-5-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-16.flv",
+            "duration": 1373
+          },
+          {
+            "position": 17,
+            "title": "偶関数、奇関数の定積分",
+            "path": "math/hm/hm3-5-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-17.flv",
+            "duration": 707
+          },
+          {
+            "position": 18,
+            "title": "定積分の部分積分",
+            "path": "math/hm/hm3-5-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-18.flv",
+            "duration": 431
+          },
+          {
+            "position": 19,
+            "title": "In =∫ sinn x dx",
+            "path": "math/hm/hm3-5-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-19.flv",
+            "duration": 1404
+          },
+          {
+            "position": 20,
+            "title": "Jn =∫ cosn x dx",
+            "path": "math/hm/hm3-5-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-20.flv",
+            "duration": 705
+          },
+          {
+            "position": 21,
+            "title": "I =∫ e-x cos2 x dx",
+            "path": "math/hm/hm3-5-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-5-21.flv",
+            "duration": 763
+          }
+        ]
+      },
+      {
+        "title": "積分法の応用",
+        "slug": "hm3-6",
+        "videos": [
+          {
+            "position": 1,
+            "title": "定積分と面積(基本)",
+            "path": "math/hm/hm3-6-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-01.flv",
+            "duration": 992
+          },
+          {
+            "position": 2,
+            "title": "楕円の面積",
+            "path": "math/hm/hm3-6-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-02.flv",
+            "duration": 860
+          },
+          {
+            "position": 3,
+            "title": "y軸に沿った面積計算",
+            "path": "math/hm/hm3-6-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-03.flv",
+            "duration": 613
+          },
+          {
+            "position": 4,
+            "title": "媒介変数表示された曲線と面積",
+            "path": "math/hm/hm3-6-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-04.flv",
+            "duration": 860
+          },
+          {
+            "position": 5,
+            "title": "定積分と体積(基本)",
+            "path": "math/hm/hm3-6-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-05.flv",
+            "duration": 915
+          },
+          {
+            "position": 6,
+            "title": "回転体の体積(基本)",
+            "path": "math/hm/hm3-6-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-06.flv",
+            "duration": 1210
+          },
+          {
+            "position": 7,
+            "title": "y軸のまわりの回転体の体積",
+            "path": "math/hm/hm3-6-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-07.flv",
+            "duration": 422
+          },
+          {
+            "position": 8,
+            "title": "複雑な回転体の体積",
+            "path": "math/hm/hm3-6-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-08.flv",
+            "duration": 831
+          },
+          {
+            "position": 9,
+            "title": "移動する断面としての立方の体積",
+            "path": "math/hm/hm3-6-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-09.flv",
+            "duration": 979
+          },
+          {
+            "position": 10,
+            "title": "やや高級な求積(体積)問題1",
+            "path": "math/hm/hm3-6-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-10.flv",
+            "duration": 769
+          },
+          {
+            "position": 11,
+            "title": "やや高級な求積(体積)問題2",
+            "path": "math/hm/hm3-6-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-11.flv",
+            "duration": 747
+          },
+          {
+            "position": 12,
+            "title": "回転体の体積へのもうひとつのアプローチ",
+            "path": "math/hm/hm3-6-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-12.flv",
+            "duration": 1249
+          },
+          {
+            "position": 13,
+            "title": "弧長(道のり)",
+            "path": "math/hm/hm3-6-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-13.flv",
+            "duration": 1044
+          },
+          {
+            "position": 14,
+            "title": "弧長(道のり)2",
+            "path": "math/hm/hm3-6-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-14.flv",
+            "duration": 1477
+          },
+          {
+            "position": 15,
+            "title": "瞬間と法則",
+            "path": "math/hm/hm3-6-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-15.flv",
+            "duration": 1087
+          },
+          {
+            "position": 16,
+            "title": "定積分と不等式",
+            "path": "math/hm/hm3-6-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-16.flv",
+            "duration": 749
+          },
+          {
+            "position": 17,
+            "title": "定積分の評価",
+            "path": "math/hm/hm3-6-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-17.flv",
+            "duration": 485
+          },
+          {
+            "position": 18,
+            "title": "数列和の評価",
+            "path": "math/hm/hm3-6-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-18.flv",
+            "duration": 1421
+          },
+          {
+            "position": 19,
+            "title": "区分求積法 入門",
+            "path": "math/hm/hm3-6-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-19.flv",
+            "duration": 997
+          },
+          {
+            "position": 20,
+            "title": "区分求積法",
+            "path": "math/hm/hm3-6-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-20.flv",
+            "duration": 1037
+          },
+          {
+            "position": 21,
+            "title": "区分求積法の逆利用",
+            "path": "math/hm/hm3-6-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-21.flv",
+            "duration": 791
+          },
+          {
+            "position": 22,
+            "title": "微積分法の基本定理",
+            "path": "math/hm/hm3-6-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-22.flv",
+            "duration": 755
+          },
+          {
+            "position": 23,
+            "title": "積分方程式",
+            "path": "math/hm/hm3-6-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-23.flv",
+            "duration": 1040
+          },
+          {
+            "position": 24,
+            "title": "定積分で表される関数",
+            "path": "math/hm/hm3-6-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-24.flv",
+            "duration": 1320
+          },
+          {
+            "position": 25,
+            "title": "[発展] 大学以上での積分論",
+            "path": "math/hm/hm3-6-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hm3-6-25.flv",
+            "duration": 990
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "数学C",
+    "slug": "hmc",
+    "url": "http://edupa.org/?p=935",
+    "chapters": [
+      {
+        "title": "行列",
+        "slug": "hmc-1",
+        "videos": [
+          {
+            "position": 1,
+            "title": "行列の基本概念",
+            "path": "math/hm/hmc-1-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-01.flv",
+            "duration": 1018
+          },
+          {
+            "position": 2,
+            "title": "行列の加法",
+            "path": "math/hm/hmc-1-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-02.flv",
+            "duration": 988
+          },
+          {
+            "position": 3,
+            "title": "行列の実数倍",
+            "path": "math/hm/hmc-1-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-03.flv",
+            "duration": 1032
+          },
+          {
+            "position": 4,
+            "title": "行列の乗法",
+            "path": "math/hm/hmc-1-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-04.flv",
+            "duration": 1087
+          },
+          {
+            "position": 5,
+            "title": "行列の積の性質",
+            "path": "math/hm/hmc-1-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-05.flv",
+            "duration": 1580
+          },
+          {
+            "position": 6,
+            "title": "ケーリーハミルトンの定理",
+            "path": "math/hm/hmc-1-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-06.flv",
+            "duration": 1191
+          },
+          {
+            "position": 7,
+            "title": "逆行列",
+            "path": "math/hm/hmc-1-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-07.flv",
+            "duration": 1593
+          },
+          {
+            "position": 8,
+            "title": "対角化",
+            "path": "math/hm/hmc-1-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-08.flv",
+            "duration": 1172
+          },
+          {
+            "position": 9,
+            "title": "連立1次方程式と行列",
+            "path": "math/hm/hmc-1-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-09.flv",
+            "duration": 1089
+          },
+          {
+            "position": 10,
+            "title": "係数行列が逆行列を持たない場合",
+            "path": "math/hm/hmc-1-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-10.flv",
+            "duration": 894
+          },
+          {
+            "position": 11,
+            "title": "同次連立1次方程式が自明でない解をもつ条件",
+            "path": "math/hm/hmc-1-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-11.flv",
+            "duration": 760
+          },
+          {
+            "position": 12,
+            "title": "行列の表す1次変換の例1 対称移動",
+            "path": "math/hm/hmc-1-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-12.flv",
+            "duration": 1151
+          },
+          {
+            "position": 13,
+            "title": "行列の表す1次変換の例2 回転移動",
+            "path": "math/hm/hmc-1-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-13.flv",
+            "duration": 964
+          },
+          {
+            "position": 14,
+            "title": "相似拡大",
+            "path": "math/hm/hmc-1-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-14.flv",
+            "duration": 386
+          },
+          {
+            "position": 15,
+            "title": "行列の表す1次変換",
+            "path": "math/hm/hmc-1-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-15.flv",
+            "duration": 1360
+          },
+          {
+            "position": 16,
+            "title": "移動の合成",
+            "path": "math/hm/hmc-1-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-16.flv",
+            "duration": 663
+          },
+          {
+            "position": 17,
+            "title": "回転移動の合成",
+            "path": "math/hm/hmc-1-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-17.flv",
+            "duration": 364
+          },
+          {
+            "position": 18,
+            "title": "対称移動と回転移動",
+            "path": "math/hm/hmc-1-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-18.flv",
+            "duration": 587
+          },
+          {
+            "position": 19,
+            "title": "回転拡大",
+            "path": "math/hm/hmc-1-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-19.flv",
+            "duration": 821
+          },
+          {
+            "position": 20,
+            "title": "1次変換による像",
+            "path": "math/hm/hmc-1-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-20.flv",
+            "duration": 964
+          },
+          {
+            "position": 21,
+            "title": "一般の対称移動と行列",
+            "path": "math/hm/hmc-1-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-21.flv",
+            "duration": 469
+          },
+          {
+            "position": 22,
+            "title": "一般の回転移動と行列",
+            "path": "math/hm/hmc-1-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-22.flv",
+            "duration": 464
+          },
+          {
+            "position": 23,
+            "title": "方程式と曲線",
+            "path": "math/hm/hmc-1-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-1-23.flv",
+            "duration": 670
+          }
+        ]
+      },
+      {
+        "title": "式と曲線",
+        "slug": "hmc-2",
+        "videos": [
+          {
+            "position": 1,
+            "title": "軌跡の求め方",
+            "path": "math/hm/hmc-2-01",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-01.flv",
+            "duration": 1038
+          },
+          {
+            "position": 2,
+            "title": "軌跡としての放物線",
+            "path": "math/hm/hmc-2-02",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-02.flv",
+            "duration": 765
+          },
+          {
+            "position": 3,
+            "title": "軌跡としての楕円",
+            "path": "math/hm/hmc-2-03",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-03.flv",
+            "duration": 785
+          },
+          {
+            "position": 4,
+            "title": "楕円の性質",
+            "path": "math/hm/hmc-2-04",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-04.flv",
+            "duration": 1208
+          },
+          {
+            "position": 5,
+            "title": "軌跡としての双曲線",
+            "path": "math/hm/hmc-2-05",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-05.flv",
+            "duration": 1233
+          },
+          {
+            "position": 6,
+            "title": "双曲線の漸近線",
+            "path": "math/hm/hmc-2-06",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-06.flv",
+            "duration": 1220
+          },
+          {
+            "position": 7,
+            "title": "もうひとつの双曲線",
+            "path": "math/hm/hmc-2-07",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-07.flv",
+            "duration": 814
+          },
+          {
+            "position": 8,
+            "title": "2次曲線・円錐曲線",
+            "path": "math/hm/hmc-2-08",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-08.flv",
+            "duration": 682
+          },
+          {
+            "position": 9,
+            "title": "2次曲線と直線の共有点",
+            "path": "math/hm/hmc-2-09",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-09.flv",
+            "duration": 1117
+          },
+          {
+            "position": 10,
+            "title": "曲線の平行移動",
+            "path": "math/hm/hmc-2-10",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-10.flv",
+            "duration": 1244
+          },
+          {
+            "position": 11,
+            "title": "2次曲線の焦点・準線",
+            "path": "math/hm/hmc-2-11",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-11.flv",
+            "duration": 818
+          },
+          {
+            "position": 12,
+            "title": "2次曲線の接点",
+            "path": "math/hm/hmc-2-12",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-12.flv",
+            "duration": 1593
+          },
+          {
+            "position": 13,
+            "title": "媒介変数表示",
+            "path": "math/hm/hmc-2-13",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-13.flv",
+            "duration": 1571
+          },
+          {
+            "position": 14,
+            "title": "双曲線の媒介変数表示(1)",
+            "path": "math/hm/hmc-2-14",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-14.flv",
+            "duration": 696
+          },
+          {
+            "position": 15,
+            "title": "円の媒介変数表示",
+            "path": "math/hm/hmc-2-15",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-15.flv",
+            "duration": 1263
+          },
+          {
+            "position": 16,
+            "title": "楕円の媒介変数表示",
+            "path": "math/hm/hmc-2-16",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-16.flv",
+            "duration": 837
+          },
+          {
+            "position": 17,
+            "title": "双曲線の媒介変数表示(2)",
+            "path": "math/hm/hmc-2-17",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-17.flv",
+            "duration": 1199
+          },
+          {
+            "position": 18,
+            "title": "サイクロイド",
+            "path": "math/hm/hmc-2-18",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-18.flv",
+            "duration": 1825
+          },
+          {
+            "position": 19,
+            "title": "リサジュー図形",
+            "path": "math/hm/hmc-2-19",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-19.flv",
+            "duration": 819
+          },
+          {
+            "position": 20,
+            "title": "極座標入門",
+            "path": "math/hm/hmc-2-20",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-20.flv",
+            "duration": 1197
+          },
+          {
+            "position": 21,
+            "title": "極方程式の基本",
+            "path": "math/hm/hmc-2-21",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-21.flv",
+            "duration": 1228
+          },
+          {
+            "position": 22,
+            "title": "正葉曲線",
+            "path": "math/hm/hmc-2-22",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-22.flv",
+            "duration": 740
+          },
+          {
+            "position": 23,
+            "title": "螺旋",
+            "path": "math/hm/hmc-2-23",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-23.flv",
+            "duration": 484
+          },
+          {
+            "position": 24,
+            "title": "カージオイド",
+            "path": "math/hm/hmc-2-24",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-24.flv",
+            "duration": 494
+          },
+          {
+            "position": 25,
+            "title": "直交座標と極座標の変換",
+            "path": "math/hm/hmc-2-25",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-25.flv",
+            "duration": 545
+          },
+          {
+            "position": 26,
+            "title": "極座標と二次曲線",
+            "path": "math/hm/hmc-2-26",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-26.flv",
+            "duration": 773
+          },
+          {
+            "position": 27,
+            "title": "外サイクロイド",
+            "path": "math/hm/hmc-2-27",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-27.flv",
+            "duration": 1129
+          },
+          {
+            "position": 28,
+            "title": "内サイクロイド",
+            "path": "math/hm/hmc-2-28",
+            "ftype": "2",
+            "server": null,
+            "video_url": "http://edupa.info/flv/math/hm/hmc-2-28.flv",
+            "duration": 1267
+          }
+        ]
+      }
+    ]
+  }
+]
